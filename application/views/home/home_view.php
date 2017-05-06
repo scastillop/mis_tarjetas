@@ -14,7 +14,7 @@
 
       </div>
     </div>
-    <div class="parallax"><img src="img/transbank_home.jpg" alt="Cual me conviene?"></div>
+    <div class="parallax"><img src="<?php echo base_url();?>img/transbank_home.jpg" alt="Cual me conviene?"></div>
   </div>
 
 

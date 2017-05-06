@@ -24,11 +24,3 @@ class Home extends CI_Controller {
 	}
 
 }
-
-/*antiguo .htaccess
-RewriteEngine on
-RewriteCond $1 !^(index\.php|images|php|script|styles|js|css)
-RewriteRule ^(.*)$ /mistarjetas/index.php/$1 [L]
-
-
-*/

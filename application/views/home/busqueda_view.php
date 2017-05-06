@@ -1,6 +1,6 @@
 <div class="container">
   <div class="section">
-    <h1 class="header center teal-text text-lighten-2">¿QUE PERFIL TENGO?</h1>
+    <h1 class="header center teal-text text-lighten-2">¿QUE PERFIL TIENES?</h1>
 
     <div class="row">
 
@@ -64,7 +64,7 @@
 
     <div class="row">
       <div class="col s12 m12 right-align">
-        <a class="waves-effect waves-light btn-large">Siguiente ></a>
+        <a href="<?php echo base_url(); ?>busqueda/resultado" class="waves-effect waves-light btn-large">Siguiente ></a>
       </div>
     </div>
 
